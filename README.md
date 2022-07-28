@@ -3,6 +3,7 @@ Olá, eu sou Jean,
 <div align="center">
   <a href="https://github.com/jeanguernaut">
   <img   width= "390em" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanguernaut&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <br>
   <img width= "390em" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanguernaut&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
