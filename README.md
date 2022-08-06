@@ -1,4 +1,4 @@
-Olá, eu sou Jean,  
+Hello, I'm Jean,  
 
 <div align="left">
   <a href="https://github.com/jeanguernaut">
